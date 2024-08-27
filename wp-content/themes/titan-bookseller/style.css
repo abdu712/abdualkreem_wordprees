@@ -1,0 +1,194 @@
+/*
+Theme Name: Titan Bookseller
+Theme URI: https://www.titanthemes.net/themes/free-bookseller-wordpress-theme/
+Author: Titan Themes
+Author URI: https://www.titanthemes.net/
+Description: Titan Bookseller is a meticulously designed WordPress theme tailored for online book stores and physical book shops looking to establish or enhance their digital presence. Created with booksellers in mind, it caters to various book-related businesses, from small independent bookshops to large online book stores. This theme is perfect for showcasing a wide range of book collections, including new books, used books, and secondhand books. Its comprehensive features make it suitable for promoting book sales, offering book discounts, and highlighting special book deals. One of the key benefits of the Titan Bookseller WordPress Theme is its user-friendly interface, which allows easy customization without the need for coding skills. It provides a seamless shopping experience for customers, with features that support the display and categorization of books by genre, such as children's books, young adult books, adult fiction, and adult nonfiction. Additionally, it can highlight bestsellers, classic literature, modern literature, and various specialized categories like poetry books, graphic novels, comics, manga, and more. Visually, the Titan Bookseller WordPress Theme boasts a clean, modern design with an elegant layout that ensures a pleasant browsing experience. Its responsive design guarantees that the website looks stunning on any device, whether accessed via a desktop, tablet, or smartphone. 
+Requires at least: 6.1
+Tested up to: 6.6
+Requires PHP: 7.2
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Text Domain: titan-bookseller
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, wide-blocks, block-styles, blog, education, news
+*/
+
+.red-header-text {
+  transform: rotate(-90deg);
+  margin-bottom: 90px;
+}
+#about-section img, .header-banner-box img {
+  width: 100%;
+}
+.middle-section-box :where(body .is-layout-flex) {
+  gap: 0;
+}
+.middle-wrap {
+  gap: 24px;
+}
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container li a {
+  color: #000;
+}
+.header-menu .wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container li a span.wp-block-navigation-item__label:hover{
+  padding: 0px;
+  background: transparent;
+}
+.woocommerce-currency-switcher-form .chosen-container-single .chosen-single div {
+  background: transparent !important;
+  border: 0px !important;
+}
+.woocommerce-currency-switcher-form .chosen-container-single .chosen-single {
+  background: transparent !important;
+  box-shadow: none !important;
+  color: #000;
+}
+.header-menu span.wp-block-navigation-item__label:hover {
+  padding: 19px 15px;
+  background: #FFDA00;
+  color: #000;
+}
+.header-menu .menu-box {
+  gap: 50px;
+  padding: 0px;
+}
+.color-word{
+  color: #3D9C38;
+  font-weight: 600 !important;
+}
+.menu-box{
+  margin-top: 0 !important;
+  padding: 12px 0;
+}
+.wp-site-blocks{
+	padding: 0 !important;
+}
+.is-head-menu li a:hover {
+  text-decoration: none;
+}
+.is-head-menu li a{
+  position: relative;
+}
+.is-head-menu li a:hover:after {
+  text-decoration: none;
+  content: "";
+  bottom: -40px;
+  width: 100%;
+  left: 0px;
+  height: 2px;
+  background: #3D9C38;
+  position: absolute;
+}
+.is-head-menu li a:hover span {
+  color: #3D9C38;
+}
+footer.wp-block-template-part {
+  margin-top: 0;
+}
+@media screen and (max-width: 375px) {
+  .main-header .wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex{
+    max-width: 100%;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 599px) {
+  .header-box{
+    padding-right: 0px !important;
+  }
+  
+  .header-banner-box .is-vertically-aligned-center {
+    padding: 15px !important;
+  }
+  .is-side-box{
+    padding-top:20px;
+    padding-bottom:20px !important;
+  }
+  
+  span.wp-block-navigation-item__label {
+    color: #000;
+  }
+  .menu-box a.wp-block-navigation-item__content {
+    color: #000 !important;
+  }
+  .menu-box .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__submenu-container{
+    padding-top: 0px;
+  }
+}
+@media screen and (min-width: 801px) {
+  .menu-box {
+    padding-left: 45px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 781px) {
+  .middle-section-box .wp-block-image.alignright, .middle-section-box .wp-block-image.alignleft.size-full {
+    margin-left: 0px;
+    width: 100%;
+    text-align: center;
+    float: none;
+  }
+  .is-head-menu li a:hover:after{
+    display: none;
+  }
+  .box-row{
+    grid-row-gap: 20px;
+  }
+  .red-header-text {
+    transform: none;
+    margin-bottom: 0;
+  }
+  .middle-section-box{
+    text-align: center;
+  }
+  .header-download-button{
+    margin-top: 0px !important;
+    justify-content: center !important;
+  }
+}
+@media screen and (min-width: 575px) and (max-width: 781px) {
+  .is-side-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .book-sec {
+    display: grid !important;
+    grid-template-columns: auto auto !important;
+  }
+  .is-side-box figure.wp-block-image.aligncenter.size-full{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+  }
+  .red-header-text{
+    width: 30%;
+    margin-top: 0px !important;
+  }
+}
+@media screen and (min-width: 782px) and (max-width: 1200px) {
+  .empty-box{
+    flex-basis: 9% !important;
+  }
+  .is-side-box{
+    flex-basis: 11.1% !important;
+  }
+  .book-sec {
+    display: grid !important;
+    grid-template-columns: auto auto auto !important;
+  }
+}
+@media screen and (min-width: 1201px) and (max-width: 1420px) {
+  .is-side-box{
+    flex-basis: 10.9% !important;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 800px) {
+  .menu-box {
+    justify-content: center;
+    display: flex;
+  }
+  .admin-bar .wp-block-navigation__responsive-container-close {
+    color: #000;
+    top:15px;
+  }
+  .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__container{
+    justify-content: center !important;
+  }
+}

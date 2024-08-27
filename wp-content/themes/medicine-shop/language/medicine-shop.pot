@@ -1,0 +1,769 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Medicine Shop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-07\n"
+"Last-Translator: \n"
+"Language-Team: Drakearthur\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: about-theme.php:34
+msgid "About Theme"
+msgstr ""
+
+#: about-theme.php:43
+msgid "Secondary menu"
+msgstr ""
+
+#: about-theme.php:44
+msgid "About"
+msgstr ""
+
+#: about-theme.php:46
+msgid "Compare free Vs Pro"
+msgstr ""
+
+#: about-theme.php:58
+msgid "Return to Updates"
+msgstr ""
+
+#: about-theme.php:58
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: about-theme.php:61
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: about-theme.php:61
+msgid "Go to Dashboard"
+msgstr ""
+
+#: about-theme.php:76
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: about-theme.php:77
+msgid "Take a step towards excellence, try our premium theme. Use Code"
+msgstr ""
+
+#: about-theme.php:78
+msgid "Upgrade Pro"
+msgstr ""
+
+#: about-theme.php:82 about-theme.php:84
+msgid "Lite Documentation"
+msgstr ""
+
+#: about-theme.php:83
+msgid "The free theme documentation can help you set up the theme."
+msgstr ""
+
+#: about-theme.php:88 about-theme.php:90
+msgid "Theme Info"
+msgstr ""
+
+#: about-theme.php:89
+msgid "Know more about Medicine Shop."
+msgstr ""
+
+#: about-theme.php:94
+msgid "Theme Customizer"
+msgstr ""
+
+#: about-theme.php:95
+msgid "You can get all theme options in customizer."
+msgstr ""
+
+#: about-theme.php:96
+msgid "Customize"
+msgstr ""
+
+#: about-theme.php:100
+msgid "Need Support?"
+msgstr ""
+
+#: about-theme.php:101
+msgid ""
+"If you are having some issues with the theme or you want to tweak some thing,"
+" you can contact us our expert team will help you."
+msgstr ""
+
+#: about-theme.php:102
+msgid "Support Forum"
+msgstr ""
+
+#: about-theme.php:106
+msgid "Review"
+msgstr ""
+
+#: about-theme.php:107
+msgid "If you have loved our theme please show your support with the review."
+msgstr ""
+
+#: about-theme.php:108
+msgid "Rate Us"
+msgstr ""
+
+#: about-theme.php:115
+msgid "Version"
+msgstr ""
+
+#: about-theme.php:118 about-theme.php:144
+msgid "Upgrade to pro"
+msgstr ""
+
+#: about-theme.php:120 about-theme.php:146
+msgid "View Demo"
+msgstr ""
+
+#: about-theme.php:122 about-theme.php:148
+msgid "Free Theme Instructions"
+msgstr ""
+
+#: about-theme.php:151
+msgid "View Free vs Pro Table below:"
+msgstr ""
+
+#: about-theme.php:156
+msgid "Free Theme"
+msgstr ""
+
+#: about-theme.php:157
+msgid "Pro Theme"
+msgstr ""
+
+#: about-theme.php:162
+msgid "One click demo import"
+msgstr ""
+
+#: about-theme.php:167
+msgid "Color pallete and font options"
+msgstr ""
+
+#: about-theme.php:172
+msgid "Demo Content has 8 to 10 sections"
+msgstr ""
+
+#: about-theme.php:177
+msgid "Rearrange sections as per your need"
+msgstr ""
+
+#: about-theme.php:182
+msgid "Internal Pages"
+msgstr ""
+
+#: about-theme.php:187
+msgid "Plugin Integration"
+msgstr ""
+
+#: about-theme.php:192
+msgid "Ultimate technical support"
+msgstr ""
+
+#: about-theme.php:197
+msgid "Access our Support Forums"
+msgstr ""
+
+#: about-theme.php:202
+msgid "Get regular updates"
+msgstr ""
+
+#: about-theme.php:207
+msgid "Install theme on unlimited domains"
+msgstr ""
+
+#: about-theme.php:212
+msgid "Mobile Responsive"
+msgstr ""
+
+#: about-theme.php:217
+msgid "Easy Customization"
+msgstr ""
+
+#: about-theme.php:224
+msgid "Go for Premium"
+msgstr ""
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:16
+msgid "The page you were looking for could not be found."
+msgstr ""
+
+#: 404.php:17
+msgid "Go to Home"
+msgstr ""
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:48
+msgid "TOP"
+msgstr ""
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr ""
+
+#. 1: welcome page link starting html tag, 2: welcome page link ending html tag.
+#: functions.php:110
+#, php-format
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr ""
+
+#: functions.php:114
+msgid "Get started"
+msgstr ""
+
+#: functions.php:146
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:148
+msgid "The Primary Widget Area"
+msgstr ""
+
+#: functions.php:156
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:158
+msgid "The Footer Widget Area"
+msgstr ""
+
+#: header.php:18
+msgid "Loading"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: page.php:43
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search…"
+msgstr ""
+
+#: searchform.php:15
+msgid "Search"
+msgstr ""
+
+#: footer.php:11
+msgid "Footer"
+msgstr ""
+
+#: footer.php:19
+msgid "Footer Widgets"
+msgstr ""
+
+#: footer.php:38
+msgid "Hide / Show Footer Widgets"
+msgstr ""
+
+#: footer.php:49
+msgid "Footer Bottom"
+msgstr ""
+
+#: footer.php:78
+msgid "Hide / Show Footer Copytight"
+msgstr ""
+
+#: footer.php:98
+msgid "Copytight"
+msgstr ""
+
+#: frontpage.php:7
+msgid "Frontpage Sections"
+msgstr ""
+
+#: frontpage.php:16
+msgid "Slider Section"
+msgstr ""
+
+#: frontpage.php:36 frontpage.php:246
+msgid "Hide / Show Section"
+msgstr ""
+
+#: frontpage.php:56
+msgid "Slider 1"
+msgstr ""
+
+#: frontpage.php:76
+msgid "Slider 2"
+msgstr ""
+
+#: frontpage.php:96
+msgid "Slider 3"
+msgstr ""
+
+#: frontpage.php:116
+msgid "Slider Text"
+msgstr ""
+
+#: frontpage.php:128
+msgid "Select Top Product Image 1"
+msgstr ""
+
+#: frontpage.php:137
+msgid "Add Top Products Text 1"
+msgstr ""
+
+#: frontpage.php:147
+msgid "Add Products Title 1"
+msgstr ""
+
+#: frontpage.php:157
+msgid "Add Product Button Text 1"
+msgstr ""
+
+#: frontpage.php:167
+msgid "Add Product Button link 1"
+msgstr ""
+
+#: frontpage.php:177
+msgid "Select Top Product Image 2"
+msgstr ""
+
+#: frontpage.php:186
+msgid "Add Top Products Text 2"
+msgstr ""
+
+#: frontpage.php:196
+msgid "Add Products Title 2"
+msgstr ""
+
+#: frontpage.php:206
+msgid "Add Product Button Text 2"
+msgstr ""
+
+#: frontpage.php:216
+msgid "Add Product Button link 2"
+msgstr ""
+
+#: frontpage.php:226
+msgid "Our Products Section"
+msgstr ""
+
+#: frontpage.php:258
+msgid "Add Best Selling Products Title"
+msgstr ""
+
+#: frontpage.php:306
+msgid "Select Best Selling Category"
+msgstr ""
+
+#: frontpage.php:316
+msgid "Add Recommended Products Title"
+msgstr ""
+
+#: frontpage.php:333
+msgid "Select Recommended Products Category"
+msgstr ""
+
+#: general.php:7
+msgid "General"
+msgstr ""
+
+#: general.php:16
+msgid "Breadcrumb Section"
+msgstr ""
+
+#: general.php:36
+msgid "Settings"
+msgstr ""
+
+#: general.php:55
+msgid "Hide / Show Section"
+msgstr ""
+
+#: general.php:67
+msgid "Preloader"
+msgstr ""
+
+#: general.php:86
+msgid "Hide / Show Preloader"
+msgstr ""
+
+#: general.php:108
+msgid "Preloader Background Color"
+msgstr ""
+
+#: general.php:130
+msgid "Preloader Color"
+msgstr ""
+
+#: general.php:142
+msgid "Scroll To Top"
+msgstr ""
+
+#: general.php:161
+msgid "Hide / Show Scroll To Top"
+msgstr ""
+
+#: general.php:183
+msgid "Scroll To Top Color"
+msgstr ""
+
+#: general.php:205
+msgid "Scroll To Top Background Color"
+msgstr ""
+
+#: general.php:218
+msgid "Woocommerce Settings"
+msgstr ""
+
+#: general.php:234
+msgid "Product Per Columns"
+msgstr ""
+
+#: general.php:251
+msgid "Product Per Page"
+msgstr ""
+
+#: general.php:271
+msgid "Hide / Show Woocommerce Sidebar"
+msgstr ""
+
+#: header.php:18
+msgid "Hide / Show Site Title"
+msgstr ""
+
+#: header.php:38
+msgid "Hide / Show Tagline"
+msgstr ""
+
+#: header.php:53
+msgid "Header"
+msgstr ""
+
+#: header.php:64
+msgid "Site Identity"
+msgstr ""
+
+#: post.php:7
+msgid "Post Option"
+msgstr ""
+
+#: post.php:16
+msgid "Archive Post"
+msgstr ""
+
+#: post.php:36 post.php:194
+msgid "Hide / Show Post Heading"
+msgstr ""
+
+#: post.php:57 post.php:215
+msgid "Hide / Show Post Content"
+msgstr ""
+
+#: post.php:78 post.php:236
+msgid "Hide / Show Post Feature Image"
+msgstr ""
+
+#: post.php:99 post.php:257
+msgid "Hide / Show Post Date"
+msgstr ""
+
+#: post.php:120 post.php:278
+msgid "Hide / Show Post Comment"
+msgstr ""
+
+#: post.php:141 post.php:299
+msgid "Hide / Show Post Author"
+msgstr ""
+
+#: post.php:162 post.php:319
+msgid "Hide / Show Post Tags"
+msgstr ""
+
+#: post.php:174
+msgid "Single Post"
+msgstr ""
+#: socialmedia.php:12
+msgid "Social Media"
+msgstr ""
+
+#: socialmedia.php:27
+msgid "Facebook URL"
+msgstr ""
+
+#: socialmedia.php:44
+msgid "Twitter URL"
+msgstr ""
+
+#: socialmedia.php:61
+msgid "Instagram URL"
+msgstr ""
+
+#: socialmedia.php:78
+msgid "Pinterest URL"
+msgstr ""
+
+#: socialmedia.php:95
+msgid "Linkedin URL"
+msgstr ""
+
+#: upper-header.php:12
+msgid "Header Information"
+msgstr ""
+
+#: upper-header.php:27
+msgid "Add Phone Number"
+msgstr ""
+
+#: upper-header.php:42
+msgid "Add Mail Address"
+msgstr ""
+
+#: upper-header.php:58
+msgid "Button Text"
+msgstr ""
+
+#: upper-header.php:75
+msgid "Button Link"
+msgstr ""
+
+#: class-customize.php:81
+msgid "UPGRADE TO PREMIUM"
+msgstr ""
+
+#: class-customize.php:82
+msgid "Go Pro"
+msgstr ""
+
+#: custom-header.php:19
+msgid "Default Header Image"
+msgstr ""
+
+#: extras.php:55
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: extras.php:59
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: extras.php:63
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: extras.php:67
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: extras.php:71
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: extras.php:75
+msgid "Error 404"
+msgstr ""
+
+#: extras.php:79
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: extras.php:111 extras.php:114
+msgid "1"
+msgstr ""
+
+#: extras.php:113
+msgid "Home"
+msgstr ""
+
+#: extras.php:133
+msgid "Archive by category"
+msgstr ""
+
+#: extras.php:139
+msgid "Search results for"
+msgstr ""
+
+#: extras.php:242
+msgid "Posts tagged "
+msgstr ""
+
+#: extras.php:248
+msgid "Articles posted by "
+msgstr ""
+
+#: extras.php:252
+msgid "Error 404 "
+msgstr ""
+
+#: extras.php:257
+msgid "Page"
+msgstr ""
+
+#: template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: template-tags.php:49 template-tags.php:55
+msgid ", "
+msgstr ""
+
+#: template-tags.php:51
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: template-tags.php:57
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: template-tags.php:64
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post
+#: template-tags.php:71
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-post.php:99 content-post.php:110
+msgid "By"
+msgstr ""
+
+#: content-post-audio.php:48
+msgid "By"
+msgstr ""
+
+#: content-post-gallery.php:43
+msgid "By"
+msgstr ""
+
+#: content-post-image.php:52
+msgid "By"
+msgstr ""
+
+#: content-post-video.php:51
+msgid "By"
+msgstr ""
+
+#: section-header.php:77
+msgid "Sign In/ Register"
+msgstr ""
+
+#: section-header.php:79
+msgid "Login"
+msgstr ""
+
+#: section-header.php:86
+msgid "shopping cart"
+msgstr ""
+
+#: section-header.php:102
+msgid "Toggle navigation"
+msgstr ""
+
+#: section-header.php:106
+msgid "Close navigation"
+msgstr ""
+
+#. Name of the template
+#: template-frontpage.php:2
+msgid "Frontpage"
+msgstr ""
+
+#. Name of the template
+#: template-page-full-width.php:2
+msgid "Page Full Width"
+msgstr ""
+
+#. Name of the template
+#: template-page-sidebar.php:2
+msgid "Page with Sidebar"
+msgstr ""
+
+#: content-product.php:33
+msgid "Sale"
+msgstr ""
+
+#: content-product.php:52
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: content-product.php:52
+msgid "out of 5"
+msgstr ""
+
+#: mini-cart.php:32 mini-cart.php:147
+msgid "Total:"
+msgstr ""
+
+#: mini-cart.php:55 mini-cart.php:170
+msgid "Remove this item"
+msgstr ""
+
+#: mini-cart.php:99
+msgid "Checkout"
+msgstr ""
+
+#: mini-cart.php:105 mini-cart.php:221
+msgid "No products in the cart."
+msgstr ""
